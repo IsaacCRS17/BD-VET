@@ -1,2 +1,3 @@
 # BD
-bases de datos
+Bases de datos relacionales
+ 
